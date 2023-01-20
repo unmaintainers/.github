@@ -7,3 +7,5 @@ Everyone is welcome to transfer unmaintained projects here.
 Anyone is welcome to request a transfer to maintain an abandoned project.
 
 Please make sure to scrub any trademarks or copyrighted material out.
+
+Licenses must be copy-free or copy-left.
